@@ -24,7 +24,8 @@ Both the retailer and the warehouse can see pending and processed reorders.
 ### Technical Requirements
 
 - Write at least one unit test for each of the functions that simulate the sale and the dispatch
-- Provide the command necessary to run your tests
+- Produce a set of test cases both negative and positive. These can be submitted through a link to a document
+or a document itself
 - From your application, identify and explain 5 edge test cases 
 - Create a sample bug report that you would come up with as the QA Engineer
 - Create a private repository on GitHub and add [info@valuechainfactory.com](mailto:info@valuechainfactory.com) and [thomasjgx@gmail.com](mailto:thomasjgx@gmail.com) as a collaborator
